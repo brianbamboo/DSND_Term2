@@ -18,7 +18,7 @@ The primary motivation for this project was to complete a component of the Udaci
 
 #### 3. What are some of the features most correlated with price?
 
-*Why does this matter?* 
+*Why does this matter?* Understanding features most correlated with price help you better understand what's most or least valuable in each market. It doesn't necessarily tell you what consumers or suppliers themselves find most valuable, but one tangible way this information can be used is to enable you to give suggestions to landlords on how to price their listing, for example, or suggest the best deals (relative to other listings) for consumers.
 
 ## File descriptions
 - data/boston-airbnb-open-data
