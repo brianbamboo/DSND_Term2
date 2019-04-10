@@ -25,7 +25,7 @@ The primary motivation for this project was to complete a component of the Udaci
   - calendar.csv, listings.csv, reviews.csv - These are the three Boston data files used in the analysis, which include information on Boston AirBnB listings, reviews, and calendar/availability.
 - data/seattle
   - calendar.csv, listings.csv, reviews.csv - These are the three Seattle data files used in the analysis, which include information on Boston AirBnB listings, reviews, and calendar/availability.
-- airbnb_seattle_boston_data_analysis.ipynb - This is the Jupyter notebook including my analysis.
+- airbnb_seattle_boston_data_analysis.ipynb - This is the Jupyter notebook containing my analysis.
 
 ## Summary of results
 Read the notebook for the results! Just kidding. Here's a quick summary to what I found for each question:
