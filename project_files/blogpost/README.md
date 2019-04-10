@@ -32,16 +32,16 @@ Read the notebook for the results! Just kidding. Here's a quick summary to what 
 
 1. **Availability:** Seattle availability started at ~45% in Jan 2016 and climbed sharply until April, where it dropped from 75% to 65%, then remained relatively steady until dropping again in July to 60%, and then climbing through the rest of the year to peak at 75% in Jan 2017. Boston availability starts a bit lower, at ~25% in September, climbing sharply to *peak* at around 60% in Jan 2017, and then stay around ~55% until March, at which it drops again and stays steady at around ~50% until Sep 2017.
 
-**Price:** Prices for Seattle peak in the summer, while prices for Boston seem to peak in September from this dataset, with one unusual price spike in April, which may correspond to something like spring break Or... the Boston Marathon! That makes a lot more sense. The Boston Marathon is a pretty huge event, so it's intuitive that it would definitely impact price and availability dramatically.
+- **Price:** Prices for Seattle peak in the summer, while prices for Boston seem to peak in September from this dataset, with one unusual price spike in April, which may correspond to something like spring break Or... the Boston Marathon! That makes a lot more sense. The Boston Marathon is a pretty huge event, so it's intuitive that it would definitely impact price and availability dramatically.
 
 2. **Number of reviews/month:** People tend to write the most reviews in the summer, and the number of reviews has been increasing steadily since 2009. Volume of reviews writtn for Seattle is slightly higher than Boston.
 
-**Most common reviewer names:** The most common male reviewer name is David for both Seattle and Boston; Sarah is the most common female reviewer name as well. My own name, Brian, ranks 14 in Seattle and in the 20s for Boston.
+- **Most common reviewer names:** The most common male reviewer name is David for both Seattle and Boston; Sarah is the most common female reviewer name as well. My own name, Brian, ranks 14 in Seattle and in the 20s for Boston.
 
-**Most common words used in reviews:** 
-- Common words used in reviews for both cities *great, stay, place, clean, comfortable, location* 
-- Words used proportionally more common in Seattle reviews: *view, hill, downtown, bus, light, bars, fun, space, coffee, stocked* 
-- Words used proportionally more common in Boston reviews: *station, airport, floor, fine, old, rooms, public, apartment, air*
+- **Most common words used in reviews:** 
+  - Common words used in reviews for both cities *great, stay, place, clean, comfortable, location* 
+  - Words used proportionally more common in Seattle reviews: *view, hill, downtown, bus, light, bars, fun, space, coffee, stocked* 
+  - Words used proportionally more common in Boston reviews: *station, airport, floor, fine, old, rooms, public, apartment, air*
 
 3. **Top predictors (by coefficient magnitude) of listing price**
 - Seattle: 
