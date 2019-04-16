@@ -12,9 +12,9 @@ The primary motivation for this project was to complete a component of the Udaci
 
 *Why does this matter?* Understanding listing availability and price patterns helps us understand how different markets compare to each other. We could potentially take an understanding of when listing availability is high or low in a particular and run a specific promotion in order to attract attention to this particular market. 
 
-#### 2. How do the number of reviews fluctuate over the course of the year? What are the most common reviewer names? What are the most common adjectives in reviews?
+#### 2. How do the number of reviews fluctuate over the course of the year? What are the most common reviewer names? What are the most common words in reviews?
 
-*Why does this matter?* Understanding how the number of reviews fluctuate over the course of the year can give us information on how users are interacting with the platform. Monitoring data also helps you catch when number of reviews are decreasing at an undesirable rate, and figure out how to address the problem if necessary. Common reviewer names is more of a fun tidbit, but could be used to create some fun marketing campaigns. The most common adjectives in reviews can also help us learn what reviewers care most about in different markets, which can then be used to make business decisions as well. 
+*Why does this matter?* Understanding how the number of reviews fluctuate over the course of the year can give us information on how users are interacting with the platform. Monitoring data also helps you catch when number of reviews are decreasing at an undesirable rate, and figure out how to address the problem if necessary. Common reviewer names is more of a fun tidbit, but could be used to create some fun marketing campaigns. The most common words in reviews can also help us learn what reviewers care most about in different markets, which can then be used to make business decisions as well. 
 
 #### 3. What are some of the features most correlated with price?
 
